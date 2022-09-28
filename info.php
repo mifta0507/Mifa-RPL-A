@@ -22,7 +22,7 @@
 
         <li>Angga Yunanda : XIRPL2 - 19</li>
 
-        <li>Adam Braham : XIRPL2 - 07</li>
+        <li>Ailsa Damayanti : XIRPL3 - 07</li>
 
         <li>Fanny Eka : XIRPL2 - 11</li>
 
